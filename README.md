@@ -28,4 +28,4 @@ Listas de CHWLIBRE:
     `https://raw.githubusercontent.com/chwlibre/iptv/master/radios.m3u`
 
 ### ¿Quieres colaborar? ¿Agregar un listado nuevo?
-¡Puedes hacerlo!, sólo deja tu nombre de usuario de Github en ´iptvlatinomex@gmail.com´.Aquí nadie es dueño del trabajo de nadie, todo aporte es valioso, la idea es colaborar entre todos.
+¡Puedes hacerlo!, sólo deja tu nombre de usuario de Github en `iptvlatinomex@gmail.com`.Aquí nadie es dueño del trabajo de nadie, todo aporte es valioso, la idea es colaborar entre todos.
