@@ -1,4 +1,52 @@
 #EXTM3U
+#EXTINF:-1,PRIVATE TV
+http://87.246.0.134:59349/tv_PRIVATE_TV
+#EXTINF:-1,French Lover
+http://87.246.0.134:59349/tv_FL_TV
+#EXTINF:-1,XXL
+http://87.246.0.134:59349/tv_XXL
+#EXTINF:-1,DorcelTV
+http://87.246.0.134:59349/tv_Dorcel_TV
+#EXTINF:-1,EXOTICATV
+http://87.246.0.134:59349/tv_EXOTICA_TV
+#EXTINF:-1,XXL
+http://87.246.0.134:59349/tv_SCT_4
+#EXTINF:-1,cento X Cento TV
+http://87.246.0.134:59349/tv_SCT_6
+#EXTINF:-1,Sext 6 senso
+http://87.246.0.134:59349/tv_SCT_7
+#EXTINF:-1,Satisfaction
+http://87.246.0.134:59349/tv_SCT_HD
+#EXTINF:-1,Passion XXX
+http://87.246.0.134:59349/tv_SCT_HQ
+#EXTINF:-1,TGIRLS TV
+http://87.246.0.134:59349/tv_Redlight
+#EXTINF:0,egoist.tv
+http://s2.edem.tv/iptv/6TGEMRUHCLH9PG/124/526/index.m3u8
+#EXTINF:0,P layboy
+http://s2.edem.tv/iptv/6TGEMRUHCLH9PG/124/527/index.m3u8
+#EXTINF:0,Russian night
+http://s2.edem.tv/iptv/6TGEMRUHCLH9PG/124/147/index.m3u8
+#EXTINF:-1,ADULTO1
+http://188.138.1.104:8000/live/james/james/107.ts
+#EXTINF:-1,ADULTO2
+http://188.138.1.104:8000/live/james/james/141.ts
+#EXTINF:-1,ADULTO3
+http://188.138.1.104:8000/live/james/james/192.ts
+#EXTINF:-1,ADULTO4
+http://188.138.1.104:8000/live/james/james/217.ts
+#EXTINF:-1,ADULTO5
+http://188.138.1.104:8000/live/james/james/268.ts
+#EXTINF:-1,ADULTO6
+http://188.138.1.104:8000/live/james/james/287.ts
+#EXTINF:-1,ADULTO7
+http://188.138.1.104:8000/live/james/james/343.ts
+#EXTINF:-1,ADULTO8
+http://188.138.1.104:8000/live/james/james/346.ts
+#EXTINF:-1,ADULTO9
+http://188.138.1.104:8000/live/james/james/347.ts
+#EXTINF:-1,ADULTO10
+http://188.138.1.104:8000/live/james/james/417.ts
 #EXTINF:-1,PARTY GIRLS TV LIVE 2
 http://wpc.105d.systemcdn.net/03105D/demand/storage/227/55071/216909/216909.mp4.m3u8
 #EXTINF:-1,BIKINI GIRLS OFF SHOWING LIVE2
