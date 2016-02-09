@@ -377,3 +377,5 @@ http://latino-webtv.ml:86/1467/playlist.m3u8
 http://latino-webtv.ml:86/4805/playlist.m3u8
 #EXTINF:-1,Cine Dinamita
 http://latino-webtv.ml:86/3465/playlist.m3u8
+#EXTINF:-1,Cbeebies
+http://104.131.117.246:8081/chuy/76/014-Cbeebies/playlist.m3u8
