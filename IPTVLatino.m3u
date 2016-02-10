@@ -141,6 +141,14 @@ http://latino-webtv.ml/7878/383.m3u8
 http://latino-webtv.ml/7878/386.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Logo_de_TVE_03_zpsew5ysy8a.png" group-title="Canales Premium" ,TVE
 http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Canales Premium" ,SUN CHANNEL 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Canales Premium" , PELICULAS HD LATINO
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Canales Premium" ,COSMOVISION
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Canales Premium" ,T HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/master.m3u8
 
 #EXTINF:0,-Mexico-
 
@@ -350,6 +358,8 @@ http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/virgin_media_logo1_zps2ck3knwp.png" group-title="MUSICA",Virgin Tv 
 http://wow01.105.net/live/virgin1/.m3u8
+#EXTINF:0 group-title="MUSICA",MiamiTV HD
+http://k4.usastreams.com:1935/miamitv/smile:miamitv/chunklist_w667654953_b1550000.m3u8
 #EXTINF:-1 group-title="MUSICA",Ibiza 
 http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:-1 group-title="MUSICA",Film on Tv 
