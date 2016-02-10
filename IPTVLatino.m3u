@@ -14,7 +14,7 @@ http://latino-webtv.ml/7878/rcn.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Canales Premium" ,Caracol HD
 http://latino-webtv.ml/7878/caracol.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/340px-FX_International_logo.svg_zpsyytyau53.png" group-title="Canales Premium" ,FX
-http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Fox_28229_zpsg2ffwbas.png" group-title="Canales Premium" ,FOX CLASSICS
 http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/thane_logo_3338_ratings_box_logo_zpstidroh2i.png" group-title="Canales Premium" ,THANE
