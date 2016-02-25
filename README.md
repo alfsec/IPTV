@@ -8,11 +8,11 @@ Repositorio de listas de canales abierto, colaborativo y buena onda.
 Éstas son las url que deberás usar en tu SmartTV/Kodi/Android.
 * lista IPTVLatino:
 
-    `https://raw.githubusercontent.com/alfsec/IPTV/master/IPTVLatino.m3u`
+    `https://raw.githubusercontent.com/alfsec/iptv/master/IPTVLatino.m3u`
 
 * lista PeliculasVOD:
 
-    `https://raw.githubusercontent.com/alfsec/IPTV/master/PeliculasVOD.m3u`
+    `https://raw.githubusercontent.com/alfsec/iptv/master/PeliculasVOD.m3u`
 
 Listas de CHWLIBRE:    
 * lista 1:
