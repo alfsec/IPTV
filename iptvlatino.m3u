@@ -55,8 +55,8 @@ http://latino-webtv.ml/7878/266.m3u8
 http://latino-webtv.ml/7878/436.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Filmzone_HD_zpsarezai4s.png" group-title="Canales Premium" ,FILM ZONE HD
 http://latino-webtv.ml/7878/440.m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/depeli_zpsyw3xiyhf.png" group-title="Canales Premium" ,DP HD
-http://200.76.77.237/LIVE/H01/CANAL422/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/depeli_zpsyw3xiyhf.png" group-title="Canales Premium" ,DE PELICULA HD
+http://tusjuegospc.com/tmp/index.php/streaming/tp/JqS4d
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/2000px-Amc_logo.svg_zpszrlsfo5n.png" group-title="Canales Premium" ,AMC HD
 http://tusjuegospc.com/tmp/index.php/streaming/tp/fMOqv
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/spacec_zpselqulfvz.png" group-title="Canales Premium" ,SPACE
@@ -149,8 +149,6 @@ http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Canales Premium" ,T HD
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/master.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Canales Premium" ,DE PELICULA
-http://tusjuegospc.com/tmp/index.php/streaming/tp/JqS4d
 
 #EXTINF:0,-Mexico-
 
@@ -364,6 +362,26 @@ http://104.236.124.24:1382/disneyxd/playlist.m3u8
 http://104.131.117.246:8081/chuy/76/1301-ZooMoo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20140504201343/doblaje/es/images/6/62/Discovery_kids_logo.png" group-title="INFANTILES", Discovery Kids
 http://45.55.81.38:1382/discoverykids/playlist.m3u8
+
+#EXTINF:0,-Noticias-
+
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/ABC-News_zpscemdaczr.png" group-title="NOTICIAS" ,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/CANAL%2010_zpsvn56g7de.png" group-title="NOTICIAS" ,Canal 10
+rtmp://87.106.220.67/live/myStream_2
+
+#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/919.png" group-title="NOTICIAS" ,RT Esp
+http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1610.png" group-title="NOTICIAS" ,TVE 24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/291.png" group-title="NOTICIAS" ,Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1095.png" group-title="NOTICIAS" ,DW Latinoamerica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
 #EXTINF:0,-Religiosos-
 
