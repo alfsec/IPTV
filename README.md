@@ -6,32 +6,32 @@ Repositorio de listas de canales abierto, colaborativo y buena onda.
 
 ## Listados actuales (se actualizan automáticamente)
 Éstas son las url que deberás usar en tu SmartTV/Kodi/Android.
-* lista IPTVLatino:
+* Lista IPTVLatino:
 
     `https://raw.githubusercontent.com/alfsec/iptv/master/IPTVLatino.m3u`
 
-* lista PeliculasVOD:
+* Lista PeliculasVOD:
 
     `https://raw.githubusercontent.com/alfsec/iptv/master/PeliculasVOD.m3u`
 
 Listas de CHWLIBRE:    
-* lista 1:
+* Lista 1:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/list1.m3u`
 
-* lista geneiptv:
+* Lista geneiptv:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/geneiptv.m3u`
 
-* lista makiavelo:
+* Lista makiavelo:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/makiavelo.m3u`
 
-* lista radios:
+* Lista radios:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/radios.m3u`
---------------------------------------------------------------------------------
-*Lista Matus    
+
+* Lista Matus    
     `https://dl.dropboxusercontent.com/u/23691020/peli.m3u`
 
 ### ¿Quieres colaborar? ¿Agregar un listado nuevo?
