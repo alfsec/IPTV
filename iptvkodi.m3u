@@ -1,51 +1,51 @@
 #EXTM3U
 #EXTINF:0,-Canales Premium-
 
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/2000px-E_Logo.svg_zps8khpf5rc.png" group-title="Canales Premium" ,E! TV
+#EXTINF:-1 tvg-logo="E! TV.png" group-title="Canales Premium" ,E! TV
 http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Imagen_3_400x400_zpsdr2ggyrs.png" group-title="Canales Premium" ,TRENDY
+#EXTINF:-1 tvg-logo="Trendy.png" group-title="Canales Premium" ,TRENDY
 http://200.76.77.237/LIVE/H01/CANAL279/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Fashion_TV_Logo_zpswvrsushx.png" group-title="Canales Premium" ,FASHION TV
+#EXTINF:-1 tvg-logo="Fashion TV.png" group-title="Canales Premium" ,FASHION TV
 http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/MAS-CHIC.-LOGOTIPO_zpspcpmvtik.png" group-title="Canales Premium" ,MAS CHIC
+#EXTINF:-1 tvg-logo="Mas Chic.png" group-title="Canales Premium" ,MAS CHIC
 http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/340px-FX_International_logo.svg_zpsyytyau53.png" group-title="Canales Premium" ,FX
+#EXTINF:-1 tvg-logo="FX.png" group-title="Canales Premium" ,FX
 http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Fox_28229_zpsg2ffwbas.png" group-title="Canales Premium" ,FOX CLASSICS
+#EXTINF:-1 tvg-logo="FOX Classics.png" group-title="Canales Premium" ,FOX CLASSICS
 http://tvultimate.ddns.net/LIVE/H01/CANAL424/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/thane_logo_3338_ratings_box_logo_zpstidroh2i.png" group-title="Canales Premium" ,THANE
+#EXTINF:-1 tvg-logo="Thane.png" group-title="Canales Premium" ,THANE
 http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/FOX_logo_zpsoed1ibwy.png" group-title="Canales Premium" ,FOX
+#EXTINF:-1 tvg-logo="Fox.png" group-title="Canales Premium" ,FOX
 http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/fox1hd_zps4r1l7nag.png" group-title="Canales Premium" ,FOX1
+#EXTINF:-1 tvg-logo="Fox1 HD.png" group-title="Canales Premium" ,FOX1
 http://tvultimate.ddns.net/LIVE/H01/CANAL415/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/FOX_logo_zpsoed1ibwy.png" group-title="Canales Premium" ,FOX
+#EXTINF:-1 tvg-logo="Fox.png" group-title="Canales Premium" ,FOX
 http://tvultimate.ddns.net/LIVE/H01/CANAL201/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/foxaction_zpsy96b3dyp.png" group-title="Canales Premium" ,FOX ACTION HD
+#EXTINF:-1 tvg-logo="FOX Action HD.png" group-title="Canales Premium" ,FOX ACTION HD
 http://tvultimate.ddns.net/LIVE/H01/CANAL416/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/FOXMOVIESHDqoW3x_zps4j5kzeu6.png" group-title="Canales Premium" ,FOX MOVIES HD
+#EXTINF:-1 tvg-logo="FOX Movies HD.png" group-title="Canales Premium" ,FOX MOVIES HD
 http://tvultimate.ddns.net/LIVE/H01/CANAL417/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/foxcinemaqaSR_zps9v6ceqlk.png" group-title="Canales Premium" ,FOX CINEMA
+#EXTINF:-1 tvg-logo="FOX Cinema.png" group-title="Canales Premium" ,FOX CINEMA
 http://tvultimate.ddns.net/LIVE/H01/CANAL421/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/foxfam_zps6rhoqlun.png" group-title="Canales Premium" ,FOX FAMILY
+#EXTINF:-1 tvg-logo="FOX Family.png" group-title="Canales Premium" ,FOX FAMILY
 http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Canales Premium" ,FOX CLASSIC
+#EXTINF:-1 tvg-logo="FOX Classics.png" group-title="Canales Premium" ,FOX CLASSIC
 http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/FOX_Life_Logo_Canal_Recortado_Transparente__zpsm9akcj3f.png" group-title="Canales Premium" ,FOX LIFE
+#EXTINF:-1 tvg-logo="Fox Life.png" group-title="Canales Premium" ,FOX LIFE
 http://latino-webtv.ml/7878/271.m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/FOXlife_HD_Logo_zpsve2q3kya.png" group-title="Canales Premium" ,FOX LIFE HD
+#EXTINF:-1 tvg-logo="Fox Life HD.png" group-title="Canales Premium" ,FOX LIFE HD
 http://200.76.77.237/LIVE/H01/CANAL777/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Fx_us_hd_zpscpsxc4id.png" group-title="Canales Premium" ,FX HD
+#EXTINF:-1 tvg-logo="FX HD.png" group-title="Canales Premium" ,FX HD
 http://latino-webtv.ml/7878/209.m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/cinecanmas_zpsmc25ipd4.png" group-title="Canales Premium" ,CINECANAL+
+#EXTINF:-1 tvg-logo="Cinecanal +.png" group-title="Canales Premium" ,CINECANAL+
 http://latino-webtv.ml/7878/430.m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/cinecanal_zpsfwnlptkg.png" group-title="Canales Premium" ,CINECANAL
+#EXTINF:-1 tvg-logo="Cinecanal.png" group-title="Canales Premium" ,CINECANAL
 http://latino-webtv.ml/7878/480.m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/tnthd_zpsl4ldwmiu.png" group-title="Canales Premium" ,TNT HD
+#EXTINF:-1 tvg-logo="TNT HD.png" group-title="Canales Premium" ,TNT HD
 http://latino-webtv.ml/7878/435.m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Tnt_logo_zpsrggnlk47.png" group-title="Canales Premium" ,TNT LA
+#EXTINF:-1 tvg-logo="TNT LA.png" group-title="Canales Premium" ,TNT LA
 http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Logo_TNT_Series_zpsdmfb1bhn.png" group-title="Canales Premium" ,TNT SERIES
+#EXTINF:-1 tvg-logo="TNT Series.png" group-title="Canales Premium" ,TNT SERIES
 http://latino-webtv.ml/7878/266.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Golden_hd_zps3uhcpwbn.png" group-title="Canales Premium" ,GOLDEN HD
 http://latino-webtv.ml/7878/436.m3u8
@@ -53,7 +53,7 @@ http://latino-webtv.ml/7878/436.m3u8
 http://latino-webtv.ml/7878/440.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/depeli_zpsyw3xiyhf.png" group-title="Canales Premium" ,DE PELICULA HD
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/2000px-Amc_logo.svg_zpszrlsfo5n.png" group-title="Canales Premium" ,AMC HD
+#EXTINF:-1 tvg-logo="AMC HD.png" group-title="Canales Premium" ,AMC HD
 http://tusjuegospc.com/tmp/index.php/streaming/tp/fMOqv
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/spacec_zpselqulfvz.png" group-title="Canales Premium" ,SPACE
 http://latino-webtv.ml/7878/445.m3u8
@@ -61,7 +61,7 @@ http://latino-webtv.ml/7878/445.m3u8
 http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/isat_zpsauaefmmg.png" group-title="Canales Premium" ,ISAT
 http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/cinemax1_zpsc75wlcio.png" group-title="Canales Premium" ,CINEMAX
+#EXTINF:-1 tvg-logo="Cinemax.png" group-title="Canales Premium" ,CINEMAX
 http://latino-webtv.ml/7878/481.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/goldenedge_zpsyt4oxp7h.png" group-title="Canales Premium" ,GOLDEN EDGE
 http://latino-webtv.ml/7878/484.m3u8
@@ -87,7 +87,7 @@ http://tusjuegospc.com/tmp/index.php/streaming/tp/i0WZp
 http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/BBCEntertaiment_zpsofrci5sr.png" group-title="Canales Premium" ,BBC ENTERTAINMENT
 http://latino-webtv.ml/7878/253.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Canales Premium" ,E!
+#EXTINF:-1 tvg-logo="E! TV.png" group-title="Canales Premium" ,E!
 http://latino-webtv.ml/7878/255.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/universalchannelb_zpszasotyon.png" group-title="Canales Premium" ,UNIVERSAL CHANNEL
 http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -105,11 +105,11 @@ http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://latino-webtv.ml/7878/272.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/tbs_zps0ljlhcc4.png" group-title="Canales Premium" ,TBS
 http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/2000px-Casa_Club_tv_logo.svg_zpswp0flckt.png" group-title="Canales Premium" ,CASA
+#EXTINF:-1 tvg-logo="Casa Club TV.png" group-title="Canales Premium" ,CASA CLUB TV
 http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/245px-Tlnovelas_logo.svg_zpsgcykmvpe.png" group-title="Canales Premium" ,TLNOVELAS
 http://latino-webtv.ml/7878/275.m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/0Z3vcuP9_zpsxwso1vqg.png" group-title="Canales Premium" ,DISCOVERY HD THEATER
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/0Z3vcuP9_zpsxwso1vqg.png" group-title="Canales Premium" ,DISCOVERY THEATER HD
 http://tusjuegospc.com/tmp/index.php/streaming/tp/6yEyC
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/logohistoryhd_zpsgrvcehd7.png" group-title="Canales Premium" ,HISTORY HD
 http://tusjuegospc.com/tmp/index.php/streaming/tp/RY05Z
