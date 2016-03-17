@@ -354,11 +354,11 @@ http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8?-1332%2F1499
 
 #EXTINF:0,-Infantiles-
 
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/discovery_kids__zps0um7kcwp.png" group-title="INFANTILES" ,DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="DISCOVERY KIDS US.png" group-title="INFANTILES" ,DISCOVERY KIDS
 http://tusjuegospc.com/tmp/index.php/streaming/tp/YSgFt
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/cbee_zpswqiryjxk.png" group-title="INFANTILES" ,CBEEBIES BBC
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/disnerjunior_zpsmlwhcvag.png" group-title="INFANTILES" ,DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="DISNEY JUNIOR US.png" group-title="INFANTILES" ,DISNEY JUNIOR
 http://latino-webtv.ml/7878/308.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/nickjr_zpsmwok5dch.png" group-title="INFANTILES" ,NICK JR
 http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
