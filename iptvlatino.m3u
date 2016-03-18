@@ -5,7 +5,7 @@
 http://200.76.77.230/LIVE/H01/CANAL143/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Imagen_3_400x400_zpsdr2ggyrs.png" group-title="Canales Premium" ,TRENDY
 http://200.76.77.230/LIVE/H01/CANAL279/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Fashion_TV_Logo_zpswvrsushx.png" group-title="Canales Premium" ,FASHION TV
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Hola_tv_logo_zpscg1xahkl.png" group-title="Canales Premium" ,¡HOLA! TV
 http://200.76.77.230/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/MAS-CHIC.-LOGOTIPO_zpspcpmvtik.png" group-title="Canales Premium" ,MAS CHIC
 http://200.76.77.230/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -51,9 +51,9 @@ http://200.76.77.230/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.230/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Filmzone_HD_zpsarezai4s.png" group-title="Canales Premium" ,FILM ZONE HD
 http://200.76.77.230/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/depeli_zpsyw3xiyhf.png" group-title="Canales Premium" ,DP HD
-http://200.76.77.230/LIVE/H01/CANAL422/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/depeli_zpsyw3xiyhf.png" group-title="Canales Premium" ,DE PELICULA HD
+http://200.76.77.230/LIVE/H01/CANAL422/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/depeli_zpsyw3xiyhf.png" group-title="Canales Premium" ,DE PELICULA 2 HD
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/2000px-Amc_logo.svg_zpszrlsfo5n.png" group-title="Canales Premium" ,AMC HD
 http://200.76.77.230/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
