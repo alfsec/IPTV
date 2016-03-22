@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:0,-Canales Premium-
 
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/2000px-E_Logo.svg_zps8khpf5rc.png" group-title="Canales Premium" ,E! TV**
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/E_zpsoii78ynn.png" group-title="Canales Premium" ,E! TV**
 http://200.76.77.230/LIVE/H01/CANAL143/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Imagen_3_400x400_zpsdr2ggyrs.png" group-title="Canales Premium" ,TRENDY
 http://200.76.77.230/LIVE/H01/CANAL279/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Hola_tv_logo_zpscg1xahkl.png" group-title="Canales Premium" ,¡HOLA! TV
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/iexclHOLA%20TV_zpsehr7rhkl.png" group-title="Canales Premium" ,¡HOLA! TV
 http://200.76.77.230/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/FASHION%20TV_zps6zxcsux1.png" group-title="Canales Premium" ,FASHION TV
 http://200.76.77.230/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -13,13 +13,13 @@ http://200.76.77.230/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.230/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Fox_28229_zpsg2ffwbas.png" group-title="Canales Premium" ,FOX CLASSICS
 http://200.76.77.230/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/2000px-Amc_logo.svg_zpszrlsfo5n.png" group-title="Canales Premium" ,AMC
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/AMC_zpsqqyncmrz.png" group-title="Canales Premium" ,AMC
 http://200.76.77.230/LIVE/H01/CANAL490/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/FOX_logo_zpsoed1ibwy.png" group-title="Canales Premium" ,FOX
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/FOX2_zpsxyxo24ah.png" group-title="Canales Premium" ,FOX
 http://200.76.77.230/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/fox1hd_zps4r1l7nag.png" group-title="Canales Premium" ,FOX1
 http://200.76.77.230/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/FOX_logo_zpsoed1ibwy.png" group-title="Canales Premium" ,FOX
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/FOX2_zpsxyxo24ah.png" group-title="Canales Premium" ,FOX
 http://200.76.77.230/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/foxaction_zpsy96b3dyp.png" group-title="Canales Premium" ,FOX ACTION HD
 http://200.76.77.230/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -41,23 +41,23 @@ http://200.76.77.230/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.230/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/cinecanmas_zpsmc25ipd4.png" group-title="Canales Premium" ,CINECANAL+
 http://200.76.77.230/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/tnthd_zpsl4ldwmiu.png" group-title="Canales Premium" ,TNT HD
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/TNT%20HD_zpsmrnbmvxy.png" group-title="Canales Premium" ,TNT HD
 http://200.76.77.230/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Tnt_logo_zpsrggnlk47.png" group-title="Canales Premium" ,TNT LA
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/TNT%20LA_zpsg7kwuwwi.png" group-title="Canales Premium" ,TNT LA
 http://200.76.77.230/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Logo_TNT_Series_zpsdmfb1bhn.png" group-title="Canales Premium" ,TNT SERIES
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/TNT%20SERIES_zpsac25g2ej.png" group-title="Canales Premium" ,TNT SERIES
 http://200.76.77.230/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Golden_hd_zps3uhcpwbn.png" group-title="Canales Premium" ,GOLDEN HD
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/GOLDEN_zpslkjvldne.png" group-title="Canales Premium" ,GOLDEN HD
 http://200.76.77.230/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/goldenedge_zpsyt4oxp7h.png" group-title="Canales Premium" ,GOLDEN EDGE
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/GOLDEN%20EDGE_zpsa8pdbzfv.png" group-title="Canales Premium" ,GOLDEN EDGE
 http://200.76.77.230/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Filmzone_HD_zpsarezai4s.png" group-title="Canales Premium" ,FILM ZONE HD
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/THE%20FILM%20ZONE%20HD_zpsy4v79zyd.png" group-title="Canales Premium" ,FILM ZONE HD
 http://200.76.77.230/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/depeli_zpsyw3xiyhf.png" group-title="Canales Premium" ,DE PELICULA HD
 http://200.76.77.230/LIVE/H01/CANAL422/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/depeli_zpsyw3xiyhf.png" group-title="Canales Premium" ,DE PELICULA 2 HD
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/AMC%20HD_zps0t7ytwda.png" group-title="Canales Premium" ,AMC HD
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/AMC%20HD_zps4ziqb0pg.png" group-title="Canales Premium" ,AMC HD
 http://200.76.77.230/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/spacec_zpselqulfvz.png" group-title="Canales Premium" ,SPACE
 http://200.76.77.230/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -69,11 +69,11 @@ http://200.76.77.230/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.230/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Studio_Universal_2010_zpshsldyznr.png" group-title="Canales Premium" ,STUDIO UNIVERSAL
 http://200.76.77.230/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/tcmc_zps4vd6s1wm.png" group-title="Canales Premium" ,TCM
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/TCM_zps0arywkwk.png" group-title="Canales Premium" ,TCM
 http://200.76.77.230/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/AampE%20HD_zps1dv1muhs.png" group-title="Canales Premium" ,A&E HD
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/AampE%20HD_zpscrn3ktz6.png" group-title="Canales Premium" ,A&E HD
 http://200.76.77.230/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/AXN%20HD_zpstoqwtnka.png" group-title="Canales Premium" ,AXN HD
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/AXN%20HD_zps3gav2pse.png" group-title="Canales Premium" ,AXN HD
 http://200.76.77.230/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Sony-Entertainment-TV-HD_zpsszdrwew3.png" group-title="Canales Premium" ,SONY HD
 http://200.76.77.230/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -83,17 +83,17 @@ http://200.76.77.230/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.230/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/trutv_hd_zps4dxqoflk.png" group-title="Canales Premium" ,TRUE TV HD
 http://200.76.77.230/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Comedy_Central_HD_zpslspbo6ri.png" group-title="Canales Premium" ,COMEDY CENTRAL HD
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/COMEDY%20CENTRAL_zpsjaj40kyh.png" group-title="Canales Premium" ,COMEDY CENTRAL HD
 http://200.76.77.230/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/unicable-mdjgxybuixc3t4r34okj4spy2cs6gvurxld8bcovdm_zpsetjnwtvz.png" group-title="Canales Premium" ,U UNICABLE HD
 http://200.76.77.230/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/BBCEntertaiment_zpsofrci5sr.png" group-title="Canales Premium" ,BBC ENTERTAINMENT
 http://200.76.77.230/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Canales Premium" ,E!
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/E_zpsoii78ynn.png" group-title="Canales Premium" ,E!
 http://200.76.77.230/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/universalchannelb_zpszasotyon.png" group-title="Canales Premium" ,UNIVERSAL CHANNEL
 http://200.76.77.230/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/syfy-icon-220x220_zpscsjo1foz.png" group-title="Canales Premium" ,SyFy
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/SYFY_zpsbvwiilg1.png" group-title="Canales Premium" ,SyFy
 http://200.76.77.230/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/InvestigationDiscovery2013_zpsv5cnddfw.png" group-title="Canales Premium" , ID INVESTIGATION DISCOVERY
 http://200.76.77.230/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -113,15 +113,15 @@ http://200.76.77.230/LIVE/H01/CANAL274/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.230/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/0Z3vcuP9_zpsxwso1vqg.png" group-title="Canales Premium" ,DISCOVERY HD THEATER
 http://200.76.77.230/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/logohistoryhd_zpsgrvcehd7.png" group-title="Canales Premium" ,HISTORY HD
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/HISTORY%20HD_zpsu3qylgcn.png" group-title="Canales Premium" ,HISTORY HD
 http://200.76.77.230/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/natwild_zpsk93g6zhr.png" group-title="Canales Premium" ,NAT GEO WILD
 http://200.76.77.230/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Discovery_World_2009_zpsriai2mzt.png" group-title="Canales Premium" ,DISCOVERY WORLD
 http://200.76.77.230/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Discovery_Channel_2000_zpsjtfwllok.png" group-title="Canales Premium" ,DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/DISCOVERY%20CHANNEL_zpsaryenmd1.png" group-title="Canales Premium" ,DISCOVERY CHANNEL
 http://200.76.77.230/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/ANIMAL%20PLANET_zpsod7piiej.png" group-title="Canales Premium" ,ANIMAL PLANET
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/ANIMAL%20PLANET_zpsy2x5mrft.png" group-title="Canales Premium" ,ANIMAL PLANET
 http://200.76.77.230/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/_0040_discovery_hh_zpssuayiqg4.png" group-title="Canales Premium" ,DISCOVERY H&H
 http://200.76.77.230/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -354,39 +354,39 @@ http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8?-1332%2F1499
 
 #EXTINF:0,-Infantiles-
 
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/discovery_kids__zps0um7kcwp.png" group-title="INFANTILES" ,DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/DISCOVERY%20KIDS_zpsrh1zxvan.png" group-title="INFANTILES" ,DISCOVERY KIDS
 http://200.76.77.230/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/cbee_zpswqiryjxk.png" group-title="INFANTILES" ,CBEEBIES BBC
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/CBEEBIES_zpssmxtp88y.png" group-title="INFANTILES" ,CBEEBIES BBC
 http://200.76.77.230/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/disnerjunior_zpsmlwhcvag.png" group-title="INFANTILES" ,DISNEY JUNIOR
 http://200.76.77.230/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/nickjr_zpsmwok5dch.png" group-title="INFANTILES" ,NICK JR
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/NICK%20JR%20HD_zpst9rihkow.png" group-title="INFANTILES" ,NICK JR
 http://200.76.77.230/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/disney-channel-hd_zpstut3tj3w.png" group-title="INFANTILES" ,DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/DISNEY%20CHANNEL_zpsiqxtkoej.png" group-title="INFANTILES" ,DISNEY CHANNEL
 http://200.76.77.230/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="INFANTILES" ,NICK TOONS
 http://200.76.77.230/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/nickhd_zpsusjzwbpk.png" group-title="INFANTILES" ,NICK HD
 http://200.76.77.230/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/nickelodeon_zpsxjxmib2k.png" group-title="INFANTILES" ,NICK
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/NICK_zpsua15hktj.png" group-title="INFANTILES" ,NICK
 http://200.76.77.230/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/cn_zpsahgbhqme.png" group-title="INFANTILES" ,CARTOON NETWORK
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/CARTOON%20NETWORK_zps14bi4gap.png" group-title="INFANTILES" ,CARTOON NETWORK
 http://200.76.77.230/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/cn_zpsahgbhqme.png" group-title="INFANTILES" ,CARTOON NETWORK 2
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/CARTOON%20NETWORK_zps14bi4gap.png" group-title="INFANTILES" ,CARTOON NETWORK 2
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/disneyxdesp_zpsrfrh7tr1.png" group-title="INFANTILES" ,DISNEY XD
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/DISNEY%20XD_zps6ztcbpdc.png" group-title="INFANTILES" ,DISNEY XD
 http://200.76.77.230/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/boomerang_zpskag4pqjl.png" group-title="INFANTILES" ,BOOMERANG
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/BOOMERANG_zpstgxprj3i.png" group-title="INFANTILES" ,BOOMERANG
 http://200.76.77.230/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="INFANTILES" ,TIIN
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/TIIN_zpseaiamxbv.png" group-title="INFANTILES" ,TIIN
 http://200.76.77.230/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/tooncast_zpsle2zg27s.png" group-title="INFANTILES" ,TOON CAST
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/TOONCAST_zpsfof18qnu.png" group-title="INFANTILES" ,TOON CAST
 http://200.76.77.230/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://img1.wikia.nocookie.net/__cb20130510025506/avengers-assemble/images/thumb/2/2b/Disney_XD_logo.svg/251px-Disney_XD_logo.svg.png" group-title="INFANTILES", Disney XD
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/DISNEY%20XD_zps6ztcbpdc.png" group-title="INFANTILES", Disney XD
 http://104.236.124.24:1382/disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/2000px-ZooMoo_logo.svg.png" group-title="INFANTILES", Zoomoo
 http://104.131.117.246:8081/chuy/76/1301-ZooMoo/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20140504201343/doblaje/es/images/6/62/Discovery_kids_logo.png" group-title="INFANTILES", Discovery Kids
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/DISCOVERY%20KIDS_zpsrh1zxvan.png" group-title="INFANTILES", Discovery Kids
 http://45.55.81.38:1382/discoverykids/playlist.m3u8
 
 #EXTINF:0,-Noticias-
@@ -482,11 +482,11 @@ http://200.76.77.230/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.230/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="DEPORTES" ,FOX 2 SPORTS
 http://200.76.77.230/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/DeporTV_zpspu53oo6o.png" group-title="DEPORTES" ,DXTV
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/DXTV_zpsdfryfwts.png" group-title="DEPORTES" ,DXTV
 http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/GItbD_zpsiqiln6to.png" group-title="DEPORTES",Win Sports 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 2
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/DXTV_zpsdfryfwts.png" group-title="DEPORTES",DXTV 2
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 #EXTINF:-1 tvg-logo="http://hogar.movistar.cl/negocios/iptv/imagenes/logo_cdo_premium.png" group-title="DEPORTES",Canal Deporte Olimpico 
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
