@@ -37,7 +37,7 @@ http://200.76.77.230/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.230/LIVE/H01/CANAL777/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Fx_us_hd_zpscpsxc4id.png" group-title="Canales Premium" ,FX HD
 http://200.76.77.230/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/cinecanal_zpsfwnlptkg.png" group-title="Canales Premium" ,CINECANAL
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/CINE%20CANAL_zps2u0dbjjj.png" group-title="Canales Premium" ,CINECANAL
 http://200.76.77.230/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/cinecanmas_zpsmc25ipd4.png" group-title="Canales Premium" ,CINECANAL+
 http://200.76.77.230/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -154,7 +154,7 @@ http://200.76.77.230/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.230/LIVE/H01/CANAL45/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/az-mundo-logo_zps0setjgyx.png" group-title="MEXICO" ,AZ MUNDO
 http://200.76.77.230/LIVE/H01/CANAL276/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Mexico%20TV_zpsmoksz8ud.png" group-title="MEXICO" ,AZ CLIK HD
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/AZ%20CLIC_zps6hg4gypm.png" group-title="MEXICO" ,AZ CLIK HD
 http://200.76.77.230/LIVE/H01/CANAL725/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Mexico%20TV_zpsmoksz8ud.png" group-title="MEXICO" ,MILENIO
 http://200.76.77.230/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -172,9 +172,9 @@ http://200.76.77.230/LIVE/H01/CANAL45/PROFILE03.m3u8?-1332%2F1499-20150816T15353
 http://200.76.77.230/LIVE/H01/CANAL52/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Mexico%20TV_zpsmoksz8ud.png" group-title="MEXICO" ,5 HD
 http://200.76.77.230/LIVE/H01/CANAL55/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Mexico%20TV_zpsmoksz8ud.png" group-title="MEXICO" ,AZTECA 7
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/AZTECA%20SIETE%20HD_zpsnvirnssl.png" group-title="MEXICO" ,AZTECA 7
 http://200.76.77.230/LIVE/H01/CANAL57/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Mexico%20TV_zpsmoksz8ud.png" group-title="MEXICO" ,AZTECA 13
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/AZTECA%20TRECE%20HD_zpspblntrho.png" group-title="MEXICO" ,AZTECA 13
 http://200.76.77.230/LIVE/H01/CANAL63/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Mexico%20TV_zpsmoksz8ud.png" group-title="MEXICO" ,CANAL DE LAS ESTRELLAS HD
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
@@ -198,7 +198,7 @@ http://200.76.77.230/LIVE/H01/CANAL140/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.230/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/hmx_zps0h6uwe0h.png" group-title="MEXICO" ,H MX
 http://200.76.77.230/LIVE/H01/CANAL169/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/aztenoti_zpsbsijxbma.png" group-title="MEXICO" ,AZ NOTICIAS
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/AZTECA%20NOTICIAS_zps8rmf3cve.png" group-title="MEXICO" ,AZ NOTICIAS
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Mexico%20TV_zpsmoksz8ud.png" group-title="MEXICO" ,CANAL 7
 http://200.76.77.230/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -214,7 +214,7 @@ http://iphone-streaming.ustream.tv/uhls/21023986/streams/live/iphone/playlist.m3
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/azteca_trece_zpsepy7lea4.png" group-title="MEXICO",Azteca 13 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/azteca_noticias_mx_zps5ekbsijn.png" group-title="MEXICO",Azteca Noticias 
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/AZTECA%20NOTICIAS_zps8rmf3cve.png" group-title="MEXICO",Azteca Noticias 
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Proyecto_40_logo_zpsewq84op2.png" group-title="MEXICO",Proyecto 40 
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
