@@ -11,13 +11,13 @@ http://200.76.77.230/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.230/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/340px-FX_International_logo.svg_zpsyytyau53.png" group-title="Canales Premium" ,FX
 http://200.76.77.230/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Fox_28229_zpsg2ffwbas.png" group-title="Canales Premium" ,FOX CLASSICS
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/Fox%20Classics_zpsuvgl3bro.png" group-title="Canales Premium" ,FOX CLASSICS
 http://200.76.77.230/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/AMC_zpsqqyncmrz.png" group-title="Canales Premium" ,AMC
 http://200.76.77.230/LIVE/H01/CANAL490/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/FOX2_zpsxyxo24ah.png" group-title="Canales Premium" ,FOX
 http://200.76.77.230/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/fox1hd_zps4r1l7nag.png" group-title="Canales Premium" ,FOX1
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/Fox1_zpsvyw0fswh.png" group-title="Canales Premium" ,FOX1
 http://200.76.77.230/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/FOX2_zpsxyxo24ah.png" group-title="Canales Premium" ,FOX
 http://200.76.77.230/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -25,11 +25,11 @@ http://200.76.77.230/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.230/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/FOXMOVIESHDqoW3x_zps4j5kzeu6.png" group-title="Canales Premium" ,FOX MOVIES HD
 http://200.76.77.230/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/foxcinemaqaSR_zps9v6ceqlk.png" group-title="Canales Premium" ,FOX CINEMA
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/Fox%20Cinema_zpswyxsbmcl.png" group-title="Canales Premium" ,FOX CINEMA
 http://200.76.77.230/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/foxfam_zps6rhoqlun.png" group-title="Canales Premium" ,FOX FAMILY
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/Fox%20Family_zpsqwjyp26a.png" group-title="Canales Premium" ,FOX FAMILY
 http://200.76.77.230/LIVE/H01/CANAL475/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Canales Premium" ,FOX CLASSICS**
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/Fox%20Classics_zpsuvgl3bro.png" group-title="Canales Premium" ,FOX CLASSICS**
 http://200.76.77.230/LIVE/H01/CANAL478/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/FOX_Life_Logo_Canal_Recortado_Transparente__zpsm9akcj3f.png" group-title="Canales Premium" ,FOX LIFE
 http://200.76.77.230/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -148,7 +148,7 @@ http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3
 
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Mexico%20TV_zpsmoksz8ud.png" group-title="MEXICO" ,UNO MAS UNO TV
 http://200.76.77.230/LIVE/H01/CANAL145/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/cinema_zpsvsix4qtg.png" group-title="MEXICO" ,AZ CINEMA
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/AZ%20Cinema_zpsthl33grk.png" group-title="MEXICO" ,AZ CINEMA
 http://200.76.77.230/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Mexico%20TV_zpsmoksz8ud.png" group-title="MEXICO" ,AZ CORAZON HD
 http://200.76.77.230/LIVE/H01/CANAL45/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
