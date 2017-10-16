@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:0,-Canales Variados-
+
 #EXTINF:-1,Alf 24/7
 http://novelasfans.org/fanstvapp.php?id=src3/Alf&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
 #EXTINF:-1,Amazing Music
@@ -471,4 +474,22 @@ http://novelasfans.org/fanstvapp.php?id=src5/WinSports&f=.m3u8|user-agent=Alcate
 http://novelasfans.org/fanstvapp.php?id=src1/WOBI&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
 #EXTINF:-1,WWE Network
 http://novelasfans.org/fanstvapp.php?id=src5/WWENetwork&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
-RAW Paste Data
+
+#EXTINF:0,-Canales Premium-
+
+EXTINF:-1,HBO
+http://novelasfans.org/fanstvapp.php?id=src5/HBO&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+#EXTINF:-1,HBO 2
+http://novelasfans.org/fanstvapp.php?id=src5/HBO2&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+#EXTINF:-1,HBO Family
+http://novelasfans.org/fanstvapp.php?id=src5/HBOFamily&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+#EXTINF:-1,HBO Plus
+http://novelasfans.org/fanstvapp.php?id=src5/HBOPlus&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+#EXTINF:-1,Fox Cinema
+http://novelasfans.org/fanstvapp.php?id=src1/FoxCinema&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+#EXTINF:-1,Fox Classics
+http://novelasfans.org/fanstvapp.php?id=src1/FoxClassics&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+#EXTINF:-1,Fox Family
+http://novelasfans.org/fanstvapp.php?id=src5/FoxFamily&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+#EXTINF:-1,Fox Movies
+http://novelasfans.org/fanstvapp.php?id=src1/FoxMovies&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
